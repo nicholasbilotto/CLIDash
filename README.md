@@ -35,28 +35,28 @@ Below are some screenshots demonstrating the key functionalities of the app:
    ![Datatable](/screenshots/DataTable.png)
 
 3. **Datatable (One Filter Active)**
-   ![Datatable with One Filter Active](/screenshots/One Filter.png)
+   ![Datatable with One Filter Active](/screenshots/One-Filter.png)
 
 4. **Datatable (Two Filters Active)**
-   ![Datatable with Two Filters Active](/screenshots/Two Filters.png)
+   ![Datatable with Two Filters Active](/screenshots/Two-Filters.png)
 
 5. **Datatable (Dynamic Row Expansion)**
-   ![Datatable Dynamic RowExpansion](/screenshots/Row_Expansion.png)
+   ![Datatable Dynamic RowExpansion](/screenshots/Row-Expansion.png)
 
 6. **Edit Subject Page (Tutor-Side)**
    ![Admin Edit Subject](/screenshots/Editing-Math.png)
 
 7. **Line Graph** 
-   ![Line Graph](/screenshots/Line_Graph.png)
+   ![Line Graph](/screenshots/Line-Graph.png)
 
 8. **Pie Chart** 
-   ![Pie Chart](/screenshots/Pie_Chart.png)
+   ![Pie Chart](/screenshots/Pie-Chart.png)
 
 9. **Dashboard (isMobile)**
    ![Dashboard isMobile](/screenshots/isMobile.png) 
 
 10. **Dashboard DarkMode**
-   ![Dashboard DarkMode](/screenshots/Dash_DarkMode.png)
+   ![Dashboard DarkMode](/screenshots/Dash-DarkMode.png)
 
 
 
