@@ -32,13 +32,13 @@ Below are some screenshots demonstrating the key functionalities of the app:
    ![Dashboard](/screenshots/Dashboard.png)
 
 2. **Datatable**
-   ![Datatable](/screenshots/Datatable.png)
+   ![Datatable](/screenshots/DataTable.png)
 
 3. **Datatable (One Filter Active)**
-   ![Datatable with One Filter Active](/screenshots/One_Filter.png)
+   ![Datatable with One Filter Active](/screenshots/One Filter.png)
 
 4. **Datatable (Two Filters Active)**
-   ![Datatable with Two Filters Active](/screenshots/Two_Filters.png)
+   ![Datatable with Two Filters Active](/screenshots/Two Filters.png)
 
 5. **Datatable (Dynamic Row Expansion)**
    ![Datatable Dynamic RowExpansion](/screenshots/Row_Expansion.png)
