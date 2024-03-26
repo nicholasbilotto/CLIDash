@@ -1,0 +1,14 @@
+.p-d-flex {
+	padding: 0.5rem;
+	border-bottom: 1px solid #ccc;
+}
+
+.p-d-flex > b {
+	margin-right: 0.5rem;
+	min-width: 150px;
+}
+
+.custom-line-chart .nivo-mesh line {
+	stroke: white !important;
+	stroke-dasharray: 2, 2; /* example to make it dotted */
+}
